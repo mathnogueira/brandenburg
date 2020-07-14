@@ -1,6 +1,6 @@
 name: Brandenburg
 
-on: [push]
+on: [push, starred]
 
 jobs:
   runner-job:
